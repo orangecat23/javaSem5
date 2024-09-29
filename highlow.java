@@ -1,4 +1,4 @@
-/*Accept students' name, id and marks. Display the highest and the lowest score using Hashmap */
+/*assignment 1 part 2 Accept students' name, id and marks. Display the highest and the lowest score using Hashmap */
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
